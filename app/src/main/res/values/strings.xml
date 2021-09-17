@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+
+    //Headings
+    <string name="heading_one">Track your phone When you have lost it</string>
+    <string name="heading_two">Track your phone When you have lost it</string>
+    <string name="heading_three">Track your phone When you have lost it</string>
+    <string name="heading_fourth">Track your phone When you have lost it</string>
+
+    //Description
+    <string name="desc_one">Lorem ipsum dolor sit amet, consectetur adipiscing elit mauris sed</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit mauris sed</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+
+</resources>
